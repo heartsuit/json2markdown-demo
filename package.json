@@ -1,0 +1,22 @@
+{
+  "name": "json2markdown-demo",
+  "version": "1.0.0",
+  "description": "a json(reading notes) convert to markdown demo with json2md library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/heartsuit/json2markdown-demo.git"
+  },
+  "keywords": [
+    "json2md",
+    "json2markdown"
+  ],
+  "author": "Heartsuit",
+  "license": "ISC",
+  "dependencies": {
+    "json2md": "^1.9.1"
+  }
+}
